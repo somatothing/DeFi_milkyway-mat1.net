@@ -1,0 +1,19 @@
+"name": "okx-bot",
+"version": "1.0.0",
+"main": "index.js",,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  {
+      "dependencies": {
+      "dotenv": "^10.0.0",
+      "node-fetch": "^2.6.7",
+      "ethers": "^5.7.0",
+      "crypto": "^1.0.1"
+    }
+  }
+  
